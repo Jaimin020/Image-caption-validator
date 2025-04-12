@@ -1,7 +1,3 @@
-Here's a possible README file for your repository:
-
----
-
 # Image Caption Validator
 
 This repository contains a deep learning model designed to validate image captions. The model leverages pre-trained embeddings and image features to predict the compatibility of a given caption with an image. The implementation is primarily in Jupyter Notebook.
